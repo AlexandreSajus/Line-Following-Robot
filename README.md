@@ -1,5 +1,5 @@
 # Line Following Robot
-Developping an autonomous line following robot that is capable to navigate lines, intersections and roundabouts as part of a project at CentraleSupélec
+Winning an autonomous line following robot competition at CentraleSupélec. The robot is capable of navigating lines, intersections and roundabouts
 
 ![](media/robot.png)
 
